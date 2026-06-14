@@ -1,16 +1,26 @@
-## Hi there 👋
+Dr. Basel Ali
 
-<!--
-**drbaselali/drbaselali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Spatial Data Scientist | Scientific Computing | Machine Learning
 
-Here are some ideas to get you started:
+PhD Astrophysicist with expertise in spatial data analysis, Bayesian inference, machine learning, and large-scale observational datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+Geospatial data analysis
+Climate and environmental analytics
+Earth observation workflows
+Bayesian modeling and uncertainty quantification
+Technical Skills
+
+Languages: Python, SQL, Bash, JavaScript, YAML, Groovy
+
+Python: NumPy, SciPy, Pandas, Scikit-learn...
+
+Methods: Bayesian inference, MCMC, HDBSCAN, clustering, image processing
+
+Tools: Git, Linux, Docker
+
+Upcoming Projects
+Earth Observation Lab
+Spatial Clustering Experiments
+Bayesian Environmental Models
+Interactive Climate Dashboard
