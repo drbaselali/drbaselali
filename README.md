@@ -1,6 +1,6 @@
 Dr. Basel Ali
 
-Spatial Data Scientist | Scientific Computing | Machine Learning | AI Engineering
+Astrophysicist | Spatial Data Scientist | Scientific Computing | Machine Learning | AI Engineering
 
 PhD Astrophysicist with expertise in spatial data analysis, Bayesian inference, machine learning and AI enginering.
 
