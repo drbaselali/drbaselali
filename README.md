@@ -1,8 +1,8 @@
 Dr. Basel Ali
 
-Astrophysicist | Spatial Data Scientist | Scientific Computing | Machine Learning | AI Engineering
+Astrophysicist | Computational & Machine Learning Scientist
 
-PhD Astrophysicist with expertise in spatial data analysis, Bayesian inference, machine learning and AI enginering.
+PhD Astrophysicist with expertise in  spatial data analysis, Bayesian inference, machine learning and AI enginering.
 
 Current Focus
 
@@ -18,8 +18,8 @@ AI engineering and verification systems
 
 Languages: Python, SQL, Bash, JavaScript, YAML, Groovy
 
-Python: NumPy, SciPy, Pandas, Scikit-learn...
+Python: NumPy, SciPy, Pandas, GeoPandas, scikit-learn...
 
-Methods: Bayesian inference, MCMC, HDBSCAN, clustering, image processing
+Methods: Bayesian inference, MCMC, HDBSCAN, clustering, image processing, RAG
 
 Tools: Git, Linux, Docker, Windows, VS Code
